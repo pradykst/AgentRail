@@ -1,4 +1,4 @@
-// Configuration for ETHGO AI Payment Gateway
+// Configuration for AgentRail AI Payment Gateway
 export const config = {
   // Network configurations
   networks: {
@@ -35,10 +35,10 @@ export const config = {
 
   // Application settings
   app: {
-    name: 'ETHGO AI Payment Gateway',
+    name: 'AgentRail AI Payment Gateway',
     description: 'Cross-Chain AI Payment Gateway for ETH Global Online 2025',
     version: '1.0.0',
-    author: 'ETHGO Team'
+    author: 'AgentRail Team'
   },
 
   // Payment settings

@@ -12,7 +12,7 @@ const { chains, publicClient, webSocketPublicClient } = configureChains(
 )
 
 const { connectors } = getDefaultWallets({
-  appName: 'ETHGO AI Payment Gateway',
+  appName: 'AgentRail AI Payment Gateway',
   projectId: process.env.NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID || 'your-project-id',
   chains
 })

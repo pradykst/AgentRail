@@ -22,7 +22,7 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold text-gray-900 mb-4">
-            ETHGO AI Payment Gateway
+            AgentRail AI Payment Gateway
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
             Revolutionary cross-chain payment gateway combining PayPal USD, Hedera Hashgraph, 
@@ -92,7 +92,7 @@ export default function Home() {
                 Connect Your Wallet
               </h2>
               <p className="text-gray-600 mb-6">
-                Connect your wallet to start using the ETHGO AI Payment Gateway
+                Connect your wallet to start using the AgentRail AI Payment Gateway
               </p>
               <ConnectButton />
             </div>

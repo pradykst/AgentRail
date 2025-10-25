@@ -6,7 +6,7 @@ import { Providers } from './providers'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'ETHGO - Cross-Chain AI Payment Gateway',
+  title: 'AgentRail - Cross-Chain AI Payment Gateway',
   description: 'Revolutionary payment gateway combining PayPal USD, Hedera, and AI for seamless cross-chain payments',
   keywords: ['ethereum', 'hedera', 'paypal-usd', 'ai', 'payments', 'cross-chain', 'ethglobal'],
 }

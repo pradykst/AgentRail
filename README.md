@@ -1,4 +1,4 @@
-# ETHGO - Cross-Chain AI Payment Gateway
+# AgentRail - Cross-Chain AI Payment Gateway
 
 A revolutionary payment gateway that combines the power of PayPal USD (PYUSD), Hedera Hashgraph, and Artificial Superintelligence Alliance to create seamless cross-chain AI-powered payments.
 

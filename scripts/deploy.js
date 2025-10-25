@@ -1,7 +1,7 @@
 const { ethers } = require("hardhat");
 
 async function main() {
-  console.log("🚀 Deploying ETHGO AI Payment Gateway contracts...");
+  console.log("🚀 Deploying AgentRail AI Payment Gateway contracts...");
 
   // Get the contract factories
   const PaymentGateway = await ethers.getContractFactory("PaymentGateway");

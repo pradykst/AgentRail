@@ -1,4 +1,4 @@
-# ETHGO AI Payment Gateway - Deployment Guide
+# AgentRail AI Payment Gateway - Deployment Guide
 
 ## 🚀 Quick Start
 
