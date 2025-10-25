@@ -88,7 +88,7 @@ MIT License - see LICENSE file for details.
 
 ## 🤝 Contributing
 
-This is a hackathon project for ETH Global Online 2025. Contributions are welcome!
+This project was built for ETHGlobal Online 2025. We welcome contributions, feedback, and ideas from the community, feel free to open an issue or submit a pull request!
 
 ## 🔗 Links
 
